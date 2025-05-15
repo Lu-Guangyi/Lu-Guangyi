@@ -1,5 +1,5 @@
-# 💫 About Me:
-Gnu/Linux is my domain, Archlinux is my host.
+# > About Me:
+> Gnu/Linux is my domain, Archlinux is my host.
 
 
 ## 🌐 Socials:
