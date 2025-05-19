@@ -1,6 +1,6 @@
 # 💫 About Me:
 Gnu/Linux is my domain, Archlinux is my host.<br>
-We could have some coffee ☕
+We could have some coffee & tea ☕
 
 
 ## 🌐 Socials:
