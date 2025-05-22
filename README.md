@@ -1,9 +1,9 @@
 # 💫 About Me:
 Gnu/Linux is my domain, Archlinux is my host.<br>
 We could have some coffee☕ & tea☕
-Contact:
->  telegram: luguangyi2025
->  gmail:    deluminnetsec@gmail.com
+Contact: </br>
+>  telegram: luguangyi2025 </br>
+>  gmail:    deluminnetsec@gmail.com </br>
 >  discord:  xbpsVoidsUser#3515
 
 
