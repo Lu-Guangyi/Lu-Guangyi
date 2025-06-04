@@ -7,8 +7,8 @@
 > discord:  xbpsVoidsUser#3515
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lu.guangyi.2025) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30300416) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deluminnetsec@gmail.com) 
+<!--## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lu.guangyi.2025) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30300416) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deluminnetsec@gmail.com) -->
 
 # 💻 Tech Stack:
 
