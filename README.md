@@ -1,6 +1,6 @@
 # 💫 About Me:     📝 小日子✨
 > Gnu/Linux is my domain, Archlinux is my host.<br>
-> We could have some coffee☕ & tea☕ </br>---------------------</br> 
+> We could have some coffee☕ & tea☕ </br>------------------------------------------</br> 
 > Contact: </br>
 > telegram: luguangyi2025 </br>
 > gmail:    deluminnetsec@gmail.com </br>
