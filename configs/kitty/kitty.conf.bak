@@ -1,0 +1,37 @@
+# This config is personalized and according to the original config "kitty.conf".
+
+# Right settings for kitty.conf:
+# Primary font (monospace)
+# font_family JetBrainsMono Nerd Font
+
+# Set Font Awesome for icons (fallback font)
+# bold_font JetBrainsMono Nerd Font Bold
+# italic_font JetBrainsMono Nerd Font Italic
+# bold_italic_font JetBrainsMono Nerd Font Bold Italic
+
+# Set fallback for symbols/icons
+symbol_map U+E000-U+F8FF Font Awesome
+
+# Font size
+font_size 12.0
+
+#Terminal opacity
+background_opacity 0.9
+
+
+
+# Alternative settings:
+# Font settings:
+#font_family		     Font Awesome
+#italic_font		     Font Awesome Italic
+#bold_font   	     	     Font Awesome Bold
+#bold_italic_font     	     Font Awesome Bold Italic
+#font_size 12.0
+#symbol_map U+f000-U+f2e0 Font Awesome
+
+# BEGIN_KITTY_FONTS
+font_family      family="FreeMono"
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+# END_KITTY_FONTS
