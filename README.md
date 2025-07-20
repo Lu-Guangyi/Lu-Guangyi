@@ -10,7 +10,7 @@
 # Status: </br>
 > Script Kiddie = ✔️</br>
 > Beginner Hacker = ✔️</br>
-> CTF Player = ✔️</br>
+> CTF Player = 📌</br>
 > Real World Hacker = ❌</br>
 > Advanced Hacker/Researcher = ❌</br>
 > The Ghost = ❌
