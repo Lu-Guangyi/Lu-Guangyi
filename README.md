@@ -8,11 +8,11 @@
 > discord:  xbpsVoidsUser#3515 </br>
 > ------------------------------------------</br>
 # Status: </br>
-> Script Kiddie
-> Beginner Hacker
-> CTF Player = Current
-> Real World Hacker
-> Advanced Hacker/Researcher
+> Script Kiddie</br>
+> Beginner Hacker</br>
+> CTF Player = Current</br>
+> Real World Hacker</br>
+> Advanced Hacker/Researcher</br>
 > The Ghost
 
 <!--## 🌐 Socials:
