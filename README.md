@@ -29,6 +29,7 @@
 > git&nbsp;&nbsp;:&nbsp;&nbsp;![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) <br>
 > design&nbsp;&nbsp;:&nbsp;&nbsp;![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white) -->
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lu-Guangyi&theme=default&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Guangyi&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=Lu-Guangyi&theme=default&hide_border=false) -->
